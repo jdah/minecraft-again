@@ -1,4 +1,8 @@
 bin/game
+.idea/
+
+# shader output
+*.bin
 
 .cache/
 .vimrc
@@ -8,6 +12,7 @@ bin/game
 .vscode
 .ccls*
 compile_flags.txt
+compile_commands.json
 
 # Prerequisites
 *.d

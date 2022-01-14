@@ -1,0 +1,10 @@
+# default config
+
+[gfx]
+width = 1280
+height = 720
+vsync = false
+monitor = 0
+
+[mouse]
+sensitivity = 1.0
